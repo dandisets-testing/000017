@@ -1,0 +1,120 @@
+2020-10-08T14:34:00-0400 [INFO    ] dandi Traversing remote dandisets (000017) recursively
+2020-10-08T14:34:00-0400 [INFO    ] backups2datalad.py Updating metadata file
+2020-10-08T14:34:03-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Cori/sub-Cori_ses-20161214T120000.nwb
+2020-10-08T14:34:03-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:03-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:03-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Cori/sub-Cori_ses-20161217T120000.nwb
+2020-10-08T14:34:03-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:03-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:03-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Cori/sub-Cori_ses-20161218T120000.nwb
+2020-10-08T14:34:03-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:03-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:03-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Forssmann/sub-Forssmann_ses-20171101T120000.nwb
+2020-10-08T14:34:03-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:04-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:04-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Forssmann/sub-Forssmann_ses-20171102T120000.nwb
+2020-10-08T14:34:04-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:04-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:04-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Forssmann/sub-Forssmann_ses-20171104T120000.nwb
+2020-10-08T14:34:04-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:04-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:04-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Forssmann/sub-Forssmann_ses-20171105T120000.nwb
+2020-10-08T14:34:04-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:05-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:05-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Hench/sub-Hench_ses-20170615T120000.nwb
+2020-10-08T14:34:05-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:05-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:05-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Hench/sub-Hench_ses-20170616T120000.nwb
+2020-10-08T14:34:05-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:05-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:05-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Hench/sub-Hench_ses-20170617T120000.nwb
+2020-10-08T14:34:05-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:06-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:06-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Hench/sub-Hench_ses-20170618T120000.nwb
+2020-10-08T14:34:06-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:06-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:06-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Lederberg/sub-Lederberg_ses-20171205T120000.nwb
+2020-10-08T14:34:06-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:06-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:06-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Lederberg/sub-Lederberg_ses-20171206T120000.nwb
+2020-10-08T14:34:06-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:07-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:07-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Lederberg/sub-Lederberg_ses-20171207T120000.nwb
+2020-10-08T14:34:07-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:07-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:07-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Lederberg/sub-Lederberg_ses-20171208T120000.nwb
+2020-10-08T14:34:07-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:07-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:07-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Lederberg/sub-Lederberg_ses-20171209T120000.nwb
+2020-10-08T14:34:07-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:08-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:08-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Lederberg/sub-Lederberg_ses-20171210T120000.nwb
+2020-10-08T14:34:08-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:08-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:08-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Lederberg/sub-Lederberg_ses-20171211T120000.nwb
+2020-10-08T14:34:08-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:08-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:08-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Moniz/sub-Moniz_ses-20170515T120000.nwb
+2020-10-08T14:34:08-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:09-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:09-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Moniz/sub-Moniz_ses-20170516T120000.nwb
+2020-10-08T14:34:09-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:09-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:09-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Moniz/sub-Moniz_ses-20170518T120000.nwb
+2020-10-08T14:34:09-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:09-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:09-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Muller/sub-Muller_ses-20170107T120000.nwb
+2020-10-08T14:34:09-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:09-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:09-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Muller/sub-Muller_ses-20170108T120000.nwb
+2020-10-08T14:34:09-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:10-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:10-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Muller/sub-Muller_ses-20170109T120000.nwb
+2020-10-08T14:34:10-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:10-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:10-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Radnitz/sub-Radnitz_ses-20170108T120000.nwb
+2020-10-08T14:34:10-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:10-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:10-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Radnitz/sub-Radnitz_ses-20170109T120000.nwb
+2020-10-08T14:34:10-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:11-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:11-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Radnitz/sub-Radnitz_ses-20170110T120000.nwb
+2020-10-08T14:34:11-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:11-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:11-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Radnitz/sub-Radnitz_ses-20170111T120000.nwb
+2020-10-08T14:34:11-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:11-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:11-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Radnitz/sub-Radnitz_ses-20170112T120000.nwb
+2020-10-08T14:34:11-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:12-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:12-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Richards/sub-Richards_ses-20171029T120000.nwb
+2020-10-08T14:34:12-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:12-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:12-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Richards/sub-Richards_ses-20171030T120000.nwb
+2020-10-08T14:34:12-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:12-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:12-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Richards/sub-Richards_ses-20171031T120000.nwb
+2020-10-08T14:34:12-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:13-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:13-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Richards/sub-Richards_ses-20171101T120000.nwb
+2020-10-08T14:34:13-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:13-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:13-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Richards/sub-Richards_ses-20171102T120000.nwb
+2020-10-08T14:34:13-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:13-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:13-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Tatum/sub-Tatum_ses-20171206T120000.nwb
+2020-10-08T14:34:13-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:14-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:14-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Tatum/sub-Tatum_ses-20171207T120000.nwb
+2020-10-08T14:34:14-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:14-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:14-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Tatum/sub-Tatum_ses-20171208T120000.nwb
+2020-10-08T14:34:14-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:14-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:14-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Tatum/sub-Tatum_ses-20171209T120000.nwb
+2020-10-08T14:34:14-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:15-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:15-0400 [INFO    ] backups2datalad.py Syncing asset /sub-Theiler/sub-Theiler_ses-20171011T120000.nwb
+2020-10-08T14:34:15-0400 [WARNING ] backups2datalad.py Asset metadata does not include sha256 hash
+2020-10-08T14:34:15-0400 [INFO    ] backups2datalad.py Asset in dataset, hash not available, and size is unchanged; will not update
+2020-10-08T14:34:15-0400 [INFO    ] backups2datalad.py Commiting changes
